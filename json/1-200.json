@@ -1,0 +1,805 @@
+{
+    "err_code": 0,
+    "data": [
+        {
+            "word_id": 1,
+            "name": "一"
+        },
+        {
+            "word_id": 2,
+            "name": "二"
+        },
+        {
+            "word_id": 3,
+            "name": "三"
+        },
+        {
+            "word_id": 4,
+            "name": "人"
+        },
+        {
+            "word_id": 5,
+            "name": "个"
+        },
+        {
+            "word_id": 6,
+            "name": "大"
+        },
+        {
+            "word_id": 7,
+            "name": "土"
+        },
+        {
+            "word_id": 8,
+            "name": "天"
+        },
+        {
+            "word_id": 9,
+            "name": "日"
+        },
+        {
+            "word_id": 10,
+            "name": "月"
+        },
+        {
+            "word_id": 11,
+            "name": "山"
+        },
+        {
+            "word_id": 12,
+            "name": "水"
+        },
+        {
+            "word_id": 13,
+            "name": "火"
+        },
+        {
+            "word_id": 14,
+            "name": "田"
+        },
+        {
+            "word_id": 15,
+            "name": "木"
+        },
+        {
+            "word_id": 16,
+            "name": "口"
+        },
+        {
+            "word_id": 17,
+            "name": "牙"
+        },
+        {
+            "word_id": 18,
+            "name": "目"
+        },
+        {
+            "word_id": 19,
+            "name": "耳"
+        },
+        {
+            "word_id": 20,
+            "name": "手"
+        },
+        {
+            "word_id": 21,
+            "name": "小"
+        },
+        {
+            "word_id": 22,
+            "name": "石"
+        },
+        {
+            "word_id": 23,
+            "name": "上"
+        },
+        {
+            "word_id": 24,
+            "name": "下"
+        },
+        {
+            "word_id": 25,
+            "name": "刀"
+        },
+        {
+            "word_id": 26,
+            "name": "云"
+        },
+        {
+            "word_id": 27,
+            "name": "画"
+        },
+        {
+            "word_id": 28,
+            "name": "雨"
+        },
+        {
+            "word_id": 29,
+            "name": "气"
+        },
+        {
+            "word_id": 30,
+            "name": "风"
+        },
+        {
+            "word_id": 31,
+            "name": "四"
+        },
+        {
+            "word_id": 32,
+            "name": "五"
+        },
+        {
+            "word_id": 33,
+            "name": "六"
+        },
+        {
+            "word_id": 34,
+            "name": "七"
+        },
+        {
+            "word_id": 35,
+            "name": "八"
+        },
+        {
+            "word_id": 36,
+            "name": "九"
+        },
+        {
+            "word_id": 37,
+            "name": "十"
+        },
+        {
+            "word_id": 38,
+            "name": "不"
+        },
+        {
+            "word_id": 39,
+            "name": "只"
+        },
+        {
+            "word_id": 40,
+            "name": "米"
+        },
+        {
+            "word_id": 41,
+            "name": "你"
+        },
+        {
+            "word_id": 42,
+            "name": "我"
+        },
+        {
+            "word_id": 43,
+            "name": "他"
+        },
+        {
+            "word_id": 44,
+            "name": "爸"
+        },
+        {
+            "word_id": 45,
+            "name": "妈"
+        },
+        {
+            "word_id": 46,
+            "name": "虫"
+        },
+        {
+            "word_id": 47,
+            "name": "牛"
+        },
+        {
+            "word_id": 48,
+            "name": "羊"
+        },
+        {
+            "word_id": 49,
+            "name": "马"
+        },
+        {
+            "word_id": 50,
+            "name": "鸟"
+        },
+        {
+            "word_id": 51,
+            "name": "花"
+        },
+        {
+            "word_id": 52,
+            "name": "衣"
+        },
+        {
+            "word_id": 53,
+            "name": "禾"
+        },
+        {
+            "word_id": 54,
+            "name": "力"
+        },
+        {
+            "word_id": 55,
+            "name": "草"
+        },
+        {
+            "word_id": 56,
+            "name": "朵"
+        },
+        {
+            "word_id": 57,
+            "name": "苗"
+        },
+        {
+            "word_id": 58,
+            "name": "车"
+        },
+        {
+            "word_id": 59,
+            "name": "开"
+        },
+        {
+            "word_id": 60,
+            "name": "关"
+        },
+        {
+            "word_id": 61,
+            "name": "鱼"
+        },
+        {
+            "word_id": 62,
+            "name": "毛"
+        },
+        {
+            "word_id": 63,
+            "name": "瓜"
+        },
+        {
+            "word_id": 64,
+            "name": "果"
+        },
+        {
+            "word_id": 65,
+            "name": "叶"
+        },
+        {
+            "word_id": 66,
+            "name": "头"
+        },
+        {
+            "word_id": 67,
+            "name": "儿"
+        },
+        {
+            "word_id": 68,
+            "name": "女"
+        },
+        {
+            "word_id": 69,
+            "name": "工"
+        },
+        {
+            "word_id": 70,
+            "name": "文"
+        },
+        {
+            "word_id": 71,
+            "name": "子"
+        },
+        {
+            "word_id": 72,
+            "name": "几"
+        },
+        {
+            "word_id": 73,
+            "name": "飞"
+        },
+        {
+            "word_id": 74,
+            "name": "伞"
+        },
+        {
+            "word_id": 75,
+            "name": "门"
+        },
+        {
+            "word_id": 76,
+            "name": "长"
+        },
+        {
+            "word_id": 77,
+            "name": "巴"
+        },
+        {
+            "word_id": 78,
+            "name": "心"
+        },
+        {
+            "word_id": 79,
+            "name": "片"
+        },
+        {
+            "word_id": 80,
+            "name": "有"
+        },
+        {
+            "word_id": 81,
+            "name": "出"
+        },
+        {
+            "word_id": 82,
+            "name": "入"
+        },
+        {
+            "word_id": 83,
+            "name": "走"
+        },
+        {
+            "word_id": 84,
+            "name": "立"
+        },
+        {
+            "word_id": 85,
+            "name": "坐"
+        },
+        {
+            "word_id": 86,
+            "name": "多"
+        },
+        {
+            "word_id": 87,
+            "name": "少"
+        },
+        {
+            "word_id": 88,
+            "name": "中"
+        },
+        {
+            "word_id": 89,
+            "name": "明"
+        },
+        {
+            "word_id": 90,
+            "name": "生"
+        },
+        {
+            "word_id": 91,
+            "name": "光"
+        },
+        {
+            "word_id": 92,
+            "name": "亮"
+        },
+        {
+            "word_id": 93,
+            "name": "们"
+        },
+        {
+            "word_id": 94,
+            "name": "空"
+        },
+        {
+            "word_id": 95,
+            "name": "了"
+        },
+        {
+            "word_id": 96,
+            "name": "早"
+        },
+        {
+            "word_id": 97,
+            "name": "午"
+        },
+        {
+            "word_id": 98,
+            "name": "太"
+        },
+        {
+            "word_id": 99,
+            "name": "白"
+        },
+        {
+            "word_id": 100,
+            "name": "星"
+        },
+        {
+            "word_id": 101,
+            "name": "豆"
+        },
+        {
+            "word_id": 102,
+            "name": "红"
+        },
+        {
+            "word_id": 103,
+            "name": "阳"
+        },
+        {
+            "word_id": 104,
+            "name": "江"
+        },
+        {
+            "word_id": 105,
+            "name": "沙"
+        },
+        {
+            "word_id": 106,
+            "name": "色"
+        },
+        {
+            "word_id": 107,
+            "name": "包"
+        },
+        {
+            "word_id": 108,
+            "name": "条"
+        },
+        {
+            "word_id": 109,
+            "name": "灯"
+        },
+        {
+            "word_id": 110,
+            "name": "她"
+        },
+        {
+            "word_id": 111,
+            "name": "面"
+        },
+        {
+            "word_id": 112,
+            "name": "点"
+        },
+        {
+            "word_id": 113,
+            "name": "家"
+        },
+        {
+            "word_id": 114,
+            "name": "台"
+        },
+        {
+            "word_id": 115,
+            "name": "分"
+        },
+        {
+            "word_id": 116,
+            "name": "父"
+        },
+        {
+            "word_id": 117,
+            "name": "母"
+        },
+        {
+            "word_id": 118,
+            "name": "贝"
+        },
+        {
+            "word_id": 119,
+            "name": "王"
+        },
+        {
+            "word_id": 120,
+            "name": "又"
+        },
+        {
+            "word_id": 121,
+            "name": "爷"
+        },
+        {
+            "word_id": 122,
+            "name": "奶"
+        },
+        {
+            "word_id": 123,
+            "name": "玉"
+        },
+        {
+            "word_id": 124,
+            "name": "男"
+        },
+        {
+            "word_id": 125,
+            "name": "也"
+        },
+        {
+            "word_id": 126,
+            "name": "巾"
+        },
+        {
+            "word_id": 127,
+            "name": "元"
+        },
+        {
+            "word_id": 128,
+            "name": "来"
+        },
+        {
+            "word_id": 129,
+            "name": "去"
+        },
+        {
+            "word_id": 130,
+            "name": "回"
+        },
+        {
+            "word_id": 131,
+            "name": "自"
+        },
+        {
+            "word_id": 132,
+            "name": "己"
+        },
+        {
+            "word_id": 133,
+            "name": "足"
+        },
+        {
+            "word_id": 134,
+            "name": "皮"
+        },
+        {
+            "word_id": 135,
+            "name": "发"
+        },
+        {
+            "word_id": 136,
+            "name": "宝"
+        },
+        {
+            "word_id": 137,
+            "name": "问"
+        },
+        {
+            "word_id": 138,
+            "name": "才"
+        },
+        {
+            "word_id": 139,
+            "name": "半"
+        },
+        {
+            "word_id": 140,
+            "name": "角"
+        },
+        {
+            "word_id": 141,
+            "name": "为"
+        },
+        {
+            "word_id": 142,
+            "name": "什"
+        },
+        {
+            "word_id": 143,
+            "name": "么"
+        },
+        {
+            "word_id": 144,
+            "name": "弓"
+        },
+        {
+            "word_id": 145,
+            "name": "兔"
+        },
+        {
+            "word_id": 146,
+            "name": "可"
+        },
+        {
+            "word_id": 147,
+            "name": "左"
+        },
+        {
+            "word_id": 148,
+            "name": "右"
+        },
+        {
+            "word_id": 149,
+            "name": "厂"
+        },
+        {
+            "word_id": 150,
+            "name": "今"
+        },
+        {
+            "word_id": 151,
+            "name": "东"
+        },
+        {
+            "word_id": 152,
+            "name": "西"
+        },
+        {
+            "word_id": 153,
+            "name": "南"
+        },
+        {
+            "word_id": 154,
+            "name": "北"
+        },
+        {
+            "word_id": 155,
+            "name": "后"
+        },
+        {
+            "word_id": 156,
+            "name": "方"
+        },
+        {
+            "word_id": 157,
+            "name": "正"
+        },
+        {
+            "word_id": 158,
+            "name": "位"
+        },
+        {
+            "word_id": 159,
+            "name": "直"
+        },
+        {
+            "word_id": 160,
+            "name": "弯"
+        },
+        {
+            "word_id": 161,
+            "name": "前"
+        },
+        {
+            "word_id": 162,
+            "name": "打"
+        },
+        {
+            "word_id": 163,
+            "name": "种"
+        },
+        {
+            "word_id": 164,
+            "name": "把"
+        },
+        {
+            "word_id": 165,
+            "name": "行"
+        },
+        {
+            "word_id": 166,
+            "name": "书"
+        },
+        {
+            "word_id": 167,
+            "name": "本"
+        },
+        {
+            "word_id": 168,
+            "name": "里"
+        },
+        {
+            "word_id": 169,
+            "name": "在"
+        },
+        {
+            "word_id": 170,
+            "name": "好"
+        },
+        {
+            "word_id": 171,
+            "name": "地"
+        },
+        {
+            "word_id": 172,
+            "name": "干"
+        },
+        {
+            "word_id": 173,
+            "name": "平"
+        },
+        {
+            "word_id": 174,
+            "name": "见"
+        },
+        {
+            "word_id": 175,
+            "name": "向"
+        },
+        {
+            "word_id": 176,
+            "name": "春"
+        },
+        {
+            "word_id": 177,
+            "name": "秋"
+        },
+        {
+            "word_id": 178,
+            "name": "冬"
+        },
+        {
+            "word_id": 179,
+            "name": "年"
+        },
+        {
+            "word_id": 180,
+            "name": "夏"
+        },
+        {
+            "word_id": 181,
+            "name": "世"
+        },
+        {
+            "word_id": 182,
+            "name": "枝"
+        },
+        {
+            "word_id": 183,
+            "name": "朋"
+        },
+        {
+            "word_id": 184,
+            "name": "林"
+        },
+        {
+            "word_id": 185,
+            "name": "棵"
+        },
+        {
+            "word_id": 186,
+            "name": "树"
+        },
+        {
+            "word_id": 187,
+            "name": "界"
+        },
+        {
+            "word_id": 188,
+            "name": "竹"
+        },
+        {
+            "word_id": 189,
+            "name": "友"
+        },
+        {
+            "word_id": 190,
+            "name": "森"
+        },
+        {
+            "word_id": 191,
+            "name": "会"
+        },
+        {
+            "word_id": 192,
+            "name": "没"
+        },
+        {
+            "word_id": 193,
+            "name": "这"
+        },
+        {
+            "word_id": 194,
+            "name": "那"
+        },
+        {
+            "word_id": 195,
+            "name": "它"
+        },
+        {
+            "word_id": 196,
+            "name": "姐"
+        },
+        {
+            "word_id": 197,
+            "name": "妹"
+        },
+        {
+            "word_id": 198,
+            "name": "哥"
+        },
+        {
+            "word_id": 199,
+            "name": "弟"
+        },
+        {
+            "word_id": 200,
+            "name": "兄"
+        }
+    ]
+}

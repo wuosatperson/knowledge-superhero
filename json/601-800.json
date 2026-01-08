@@ -1,0 +1,805 @@
+{
+    "err_code": 0,
+    "data": [
+        {
+            "word_id": 601,
+            "name": "念"
+        },
+        {
+            "word_id": 602,
+            "name": "鲜"
+        },
+        {
+            "word_id": 603,
+            "name": "紫"
+        },
+        {
+            "word_id": 604,
+            "name": "翅"
+        },
+        {
+            "word_id": 605,
+            "name": "寒"
+        },
+        {
+            "word_id": 606,
+            "name": "膀"
+        },
+        {
+            "word_id": 607,
+            "name": "累"
+        },
+        {
+            "word_id": 608,
+            "name": "饿"
+        },
+        {
+            "word_id": 609,
+            "name": "闷"
+        },
+        {
+            "word_id": 610,
+            "name": "醒"
+        },
+        {
+            "word_id": 611,
+            "name": "帆"
+        },
+        {
+            "word_id": 612,
+            "name": "闻"
+        },
+        {
+            "word_id": 613,
+            "name": "划"
+        },
+        {
+            "word_id": 614,
+            "name": "理"
+        },
+        {
+            "word_id": 615,
+            "name": "鞋"
+        },
+        {
+            "word_id": 616,
+            "name": "烟"
+        },
+        {
+            "word_id": 617,
+            "name": "棒"
+        },
+        {
+            "word_id": 618,
+            "name": "踢"
+        },
+        {
+            "word_id": 619,
+            "name": "塘"
+        },
+        {
+            "word_id": 620,
+            "name": "铃"
+        },
+        {
+            "word_id": 621,
+            "name": "赛"
+        },
+        {
+            "word_id": 622,
+            "name": "湿"
+        },
+        {
+            "word_id": 623,
+            "name": "雾"
+        },
+        {
+            "word_id": 624,
+            "name": "被"
+        },
+        {
+            "word_id": 625,
+            "name": "视"
+        },
+        {
+            "word_id": 626,
+            "name": "舞"
+        },
+        {
+            "word_id": 627,
+            "name": "袋"
+        },
+        {
+            "word_id": 628,
+            "name": "挑"
+        },
+        {
+            "word_id": 629,
+            "name": "担"
+        },
+        {
+            "word_id": 630,
+            "name": "宣"
+        },
+        {
+            "word_id": 631,
+            "name": "餐"
+        },
+        {
+            "word_id": 632,
+            "name": "盆"
+        },
+        {
+            "word_id": 633,
+            "name": "碗"
+        },
+        {
+            "word_id": 634,
+            "name": "筷"
+        },
+        {
+            "word_id": 635,
+            "name": "盖"
+        },
+        {
+            "word_id": 636,
+            "name": "窗"
+        },
+        {
+            "word_id": 637,
+            "name": "访"
+        },
+        {
+            "word_id": 638,
+            "name": "钱"
+        },
+        {
+            "word_id": 639,
+            "name": "拖"
+        },
+        {
+            "word_id": 640,
+            "name": "洒"
+        },
+        {
+            "word_id": 641,
+            "name": "护"
+        },
+        {
+            "word_id": 642,
+            "name": "久"
+        },
+        {
+            "word_id": 643,
+            "name": "表"
+        },
+        {
+            "word_id": 644,
+            "name": "砖"
+        },
+        {
+            "word_id": 645,
+            "name": "论"
+        },
+        {
+            "word_id": 646,
+            "name": "滚"
+        },
+        {
+            "word_id": 647,
+            "name": "冲"
+        },
+        {
+            "word_id": 648,
+            "name": "讲"
+        },
+        {
+            "word_id": 649,
+            "name": "词"
+        },
+        {
+            "word_id": 650,
+            "name": "藏"
+        },
+        {
+            "word_id": 651,
+            "name": "晒"
+        },
+        {
+            "word_id": 652,
+            "name": "响"
+        },
+        {
+            "word_id": 653,
+            "name": "拾"
+        },
+        {
+            "word_id": 654,
+            "name": "灰"
+        },
+        {
+            "word_id": 655,
+            "name": "群"
+        },
+        {
+            "word_id": 656,
+            "name": "篇"
+        },
+        {
+            "word_id": 657,
+            "name": "装"
+        },
+        {
+            "word_id": 658,
+            "name": "甲"
+        },
+        {
+            "word_id": 659,
+            "name": "甘"
+        },
+        {
+            "word_id": 660,
+            "name": "跌"
+        },
+        {
+            "word_id": 661,
+            "name": "粗"
+        },
+        {
+            "word_id": 662,
+            "name": "该"
+        },
+        {
+            "word_id": 663,
+            "name": "另"
+        },
+        {
+            "word_id": 664,
+            "name": "程"
+        },
+        {
+            "word_id": 665,
+            "name": "闹"
+        },
+        {
+            "word_id": 666,
+            "name": "幼"
+        },
+        {
+            "word_id": 667,
+            "name": "壳"
+        },
+        {
+            "word_id": 668,
+            "name": "救"
+        },
+        {
+            "word_id": 669,
+            "name": "糟"
+        },
+        {
+            "word_id": 670,
+            "name": "圆"
+        },
+        {
+            "word_id": 671,
+            "name": "遇"
+        },
+        {
+            "word_id": 672,
+            "name": "化"
+        },
+        {
+            "word_id": 673,
+            "name": "晶"
+        },
+        {
+            "word_id": 674,
+            "name": "洋"
+        },
+        {
+            "word_id": 675,
+            "name": "尖"
+        },
+        {
+            "word_id": 676,
+            "name": "底"
+        },
+        {
+            "word_id": 677,
+            "name": "施"
+        },
+        {
+            "word_id": 678,
+            "name": "丑"
+        },
+        {
+            "word_id": 679,
+            "name": "斑"
+        },
+        {
+            "word_id": 680,
+            "name": "治"
+        },
+        {
+            "word_id": 681,
+            "name": "挖"
+        },
+        {
+            "word_id": 682,
+            "name": "离"
+        },
+        {
+            "word_id": 683,
+            "name": "盼"
+        },
+        {
+            "word_id": 684,
+            "name": "柱"
+        },
+        {
+            "word_id": 685,
+            "name": "滩"
+        },
+        {
+            "word_id": 686,
+            "name": "院"
+        },
+        {
+            "word_id": 687,
+            "name": "矿"
+        },
+        {
+            "word_id": 688,
+            "name": "植"
+        },
+        {
+            "word_id": 689,
+            "name": "修"
+        },
+        {
+            "word_id": 690,
+            "name": "蚜"
+        },
+        {
+            "word_id": 691,
+            "name": "熊"
+        },
+        {
+            "word_id": 692,
+            "name": "猴"
+        },
+        {
+            "word_id": 693,
+            "name": "鹿"
+        },
+        {
+            "word_id": 694,
+            "name": "蝌"
+        },
+        {
+            "word_id": 695,
+            "name": "蜻"
+        },
+        {
+            "word_id": 696,
+            "name": "荷"
+        },
+        {
+            "word_id": 697,
+            "name": "蚪"
+        },
+        {
+            "word_id": 698,
+            "name": "蛙"
+        },
+        {
+            "word_id": 699,
+            "name": "蜓"
+        },
+        {
+            "word_id": 700,
+            "name": "狮"
+        },
+        {
+            "word_id": 701,
+            "name": "鸥"
+        },
+        {
+            "word_id": 702,
+            "name": "季"
+        },
+        {
+            "word_id": 703,
+            "name": "蚯"
+        },
+        {
+            "word_id": 704,
+            "name": "卫"
+        },
+        {
+            "word_id": 705,
+            "name": "蝴"
+        },
+        {
+            "word_id": 706,
+            "name": "燕"
+        },
+        {
+            "word_id": 707,
+            "name": "特"
+        },
+        {
+            "word_id": 708,
+            "name": "蚓"
+        },
+        {
+            "word_id": 709,
+            "name": "盛"
+        },
+        {
+            "word_id": 710,
+            "name": "蝶"
+        },
+        {
+            "word_id": 711,
+            "name": "杀"
+        },
+        {
+            "word_id": 712,
+            "name": "篮"
+        },
+        {
+            "word_id": 713,
+            "name": "翻"
+        },
+        {
+            "word_id": 714,
+            "name": "浇"
+        },
+        {
+            "word_id": 715,
+            "name": "肥"
+        },
+        {
+            "word_id": 716,
+            "name": "晨"
+        },
+        {
+            "word_id": 717,
+            "name": "朝"
+        },
+        {
+            "word_id": 718,
+            "name": "夕"
+        },
+        {
+            "word_id": 719,
+            "name": "落"
+        },
+        {
+            "word_id": 720,
+            "name": "饼"
+        },
+        {
+            "word_id": 721,
+            "name": "波"
+        },
+        {
+            "word_id": 722,
+            "name": "潮"
+        },
+        {
+            "word_id": 723,
+            "name": "巧"
+        },
+        {
+            "word_id": 724,
+            "name": "鸦"
+        },
+        {
+            "word_id": 725,
+            "name": "如"
+        },
+        {
+            "word_id": 726,
+            "name": "单"
+        },
+        {
+            "word_id": 727,
+            "name": "泉"
+        },
+        {
+            "word_id": 728,
+            "name": "溪"
+        },
+        {
+            "word_id": 729,
+            "name": "解"
+        },
+        {
+            "word_id": 730,
+            "name": "蝉"
+        },
+        {
+            "word_id": 731,
+            "name": "摸"
+        },
+        {
+            "word_id": 732,
+            "name": "官"
+        },
+        {
+            "word_id": 733,
+            "name": "格"
+        },
+        {
+            "word_id": 734,
+            "name": "速"
+        },
+        {
+            "word_id": 735,
+            "name": "遍"
+        },
+        {
+            "word_id": 736,
+            "name": "整"
+        },
+        {
+            "word_id": 737,
+            "name": "拨"
+        },
+        {
+            "word_id": 738,
+            "name": "断"
+        },
+        {
+            "word_id": 739,
+            "name": "露"
+        },
+        {
+            "word_id": 740,
+            "name": "句"
+        },
+        {
+            "word_id": 741,
+            "name": "扔"
+        },
+        {
+            "word_id": 742,
+            "name": "激"
+        },
+        {
+            "word_id": 743,
+            "name": "喊"
+        },
+        {
+            "word_id": 744,
+            "name": "夸"
+        },
+        {
+            "word_id": 745,
+            "name": "建"
+        },
+        {
+            "word_id": 746,
+            "name": "坡"
+        },
+        {
+            "word_id": 747,
+            "name": "稳"
+        },
+        {
+            "word_id": 748,
+            "name": "脑"
+        },
+        {
+            "word_id": 749,
+            "name": "替"
+        },
+        {
+            "word_id": 750,
+            "name": "思"
+        },
+        {
+            "word_id": 751,
+            "name": "影"
+        },
+        {
+            "word_id": 752,
+            "name": "提"
+        },
+        {
+            "word_id": 753,
+            "name": "瓶"
+        },
+        {
+            "word_id": 754,
+            "name": "炒"
+        },
+        {
+            "word_id": 755,
+            "name": "啄"
+        },
+        {
+            "word_id": 756,
+            "name": "蜘"
+        },
+        {
+            "word_id": 757,
+            "name": "糕"
+        },
+        {
+            "word_id": 758,
+            "name": "丝"
+        },
+        {
+            "word_id": 759,
+            "name": "顺"
+        },
+        {
+            "word_id": 760,
+            "name": "饮"
+        },
+        {
+            "word_id": 761,
+            "name": "蛛"
+        },
+        {
+            "word_id": 762,
+            "name": "拦"
+        },
+        {
+            "word_id": 763,
+            "name": "鼓"
+        },
+        {
+            "word_id": 764,
+            "name": "令"
+        },
+        {
+            "word_id": 765,
+            "name": "扶"
+        },
+        {
+            "word_id": 766,
+            "name": "抄"
+        },
+        {
+            "word_id": 767,
+            "name": "霞"
+        },
+        {
+            "word_id": 768,
+            "name": "追"
+        },
+        {
+            "word_id": 769,
+            "name": "能"
+        },
+        {
+            "word_id": 770,
+            "name": "创"
+        },
+        {
+            "word_id": 771,
+            "name": "颗"
+        },
+        {
+            "word_id": 772,
+            "name": "矮"
+        },
+        {
+            "word_id": 773,
+            "name": "爬"
+        },
+        {
+            "word_id": 774,
+            "name": "闲"
+        },
+        {
+            "word_id": 775,
+            "name": "哗"
+        },
+        {
+            "word_id": 776,
+            "name": "饺"
+        },
+        {
+            "word_id": 777,
+            "name": "壁"
+        },
+        {
+            "word_id": 778,
+            "name": "娘"
+        },
+        {
+            "word_id": 779,
+            "name": "抬"
+        },
+        {
+            "word_id": 780,
+            "name": "丰"
+        },
+        {
+            "word_id": 781,
+            "name": "擦"
+        },
+        {
+            "word_id": 782,
+            "name": "等"
+        },
+        {
+            "word_id": 783,
+            "name": "使"
+        },
+        {
+            "word_id": 784,
+            "name": "操"
+        },
+        {
+            "word_id": 785,
+            "name": "俩"
+        },
+        {
+            "word_id": 786,
+            "name": "姨"
+        },
+        {
+            "word_id": 787,
+            "name": "叔"
+        },
+        {
+            "word_id": 788,
+            "name": "伯"
+        },
+        {
+            "word_id": 789,
+            "name": "姑"
+        },
+        {
+            "word_id": 790,
+            "name": "查"
+        },
+        {
+            "word_id": 791,
+            "name": "吞"
+        },
+        {
+            "word_id": 792,
+            "name": "拿"
+        },
+        {
+            "word_id": 793,
+            "name": "吐"
+        },
+        {
+            "word_id": 794,
+            "name": "首"
+        },
+        {
+            "word_id": 795,
+            "name": "诉"
+        },
+        {
+            "word_id": 796,
+            "name": "杆"
+        },
+        {
+            "word_id": 797,
+            "name": "度"
+        },
+        {
+            "word_id": 798,
+            "name": "且"
+        },
+        {
+            "word_id": 799,
+            "name": "披"
+        },
+        {
+            "word_id": 800,
+            "name": "摘"
+        }
+    ]
+}
